@@ -1,0 +1,3 @@
+# possible settings for databases
+<Databases: bacteria, viruses, human or custom>
+<taxonomy rank: --phylum, --class, --order, --family, --genus or --species (default)>
